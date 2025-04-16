@@ -1,0 +1,9 @@
+GenAI Enabled Public Speaking Using Experiential Learning
+Description
+This project aims to help people overcome the fear of public speaking by simulating a realistic audience in Virtual Reality (VR). The speaker's speech is transcribed in real-time, and intelligent questions are generated and delivered back to the speaker in audio format using AI. This prototype is developed as a web app using Streamlit, a Python web framework.
+Features
+Speech-to-Text: Transcribes user's speech in real-time using the speech_recognition library and Google Web Speech API.
+Question Generation: Generates insightful questions based on the speech transcript using Google's Gemini API.
+Text-to-Speech: Converts generated questions to realistic audio using the pyttsx3 library.
+Audio Upload: Allows users to upload pre-recorded MP3 audio files, which are converted to WAV format for transcription.
+Real-time Interaction: Users can interact with the app by speaking or uploading audio, and receive questions and summaries in real-time.
