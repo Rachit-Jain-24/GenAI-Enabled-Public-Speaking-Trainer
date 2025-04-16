@@ -1,0 +1,9 @@
+Python
+Streamlit
+speech_recognition
+pyttsx3
+google-generativeai
+pydub
+torchaudio
+torch
+numpy
