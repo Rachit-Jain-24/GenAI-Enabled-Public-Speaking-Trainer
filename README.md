@@ -24,7 +24,7 @@ Users can upload .mp3 files, which are converted to .wav for transcription.
 🔄 Real-time Interaction
 Users can interact with the app by speaking or uploading audio, and receive AI-generated questions and summaries in real-time.
 
-📦 Tech Stack
+📦 Tech Stack:
 Frontend: Streamlit
 
 Speech Recognition: speech_recognition, Google Web Speech API
